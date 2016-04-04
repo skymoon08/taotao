@@ -1,0 +1,15 @@
+127.0.0.1 - - [14/Jan/2016:18:31:23 +0800] "GET /search.html?q=apple HTTP/1.0" 200 42587 http-bio-8087-exec-2 1167
+127.0.0.1 - - [14/Jan/2016:18:31:25 +0800] "GET /favicon.ico HTTP/1.0" 404 973 http-bio-8087-exec-3 2
+127.0.0.1 - - [14/Jan/2016:18:33:19 +0800] "GET /search.html?q=apple HTTP/1.0" 200 42587 http-bio-8087-exec-4 123
+127.0.0.1 - - [14/Jan/2016:18:36:36 +0800] "GET /search.html?q=tcl HTTP/1.0" 200 42371 http-bio-8087-exec-5 140
+127.0.0.1 - - [14/Jan/2016:18:38:01 +0800] "GET /search.html?q=tcl HTTP/1.0" 200 42371 http-bio-8087-exec-6 127
+127.0.0.1 - - [14/Jan/2016:18:39:27 +0800] "GET /search.html?q=tcl HTTP/1.0" 200 42371 http-bio-8087-exec-7 150
+127.0.0.1 - - [14/Jan/2016:18:39:32 +0800] "GET /search.html?q=apple HTTP/1.0" 200 42587 http-bio-8087-exec-8 139
+127.0.0.1 - - [14/Jan/2016:18:39:43 +0800] "GET /search.html?q=a%E8%8B%B9%E6%9E%9C HTTP/1.0" 200 18397 http-bio-8087-exec-9 151
+127.0.0.1 - - [14/Jan/2016:18:42:11 +0800] "GET /search.html?q=apple HTTP/1.0" 200 42587 http-bio-8087-exec-10 149
+127.0.0.1 - - [14/Jan/2016:18:45:47 +0800] "GET /search.html?q=apple HTTP/1.0" 200 42587 http-bio-8087-exec-2 168
+127.0.0.1 - - [14/Jan/2016:18:45:49 +0800] "GET /search.html?q=apple&page=2 HTTP/1.0" 200 42709 http-bio-8087-exec-3 225
+127.0.0.1 - - [14/Jan/2016:18:45:54 +0800] "GET /search.html?q=apple&page=3 HTTP/1.0" 200 40898 http-bio-8087-exec-4 75
+127.0.0.1 - - [14/Jan/2016:18:45:57 +0800] "GET /search.html?q=apple&page=1 HTTP/1.0" 200 42587 http-bio-8087-exec-1 110
+127.0.0.1 - - [14/Jan/2016:18:50:04 +0800] "GET /search.html?q=apple&page=1 HTTP/1.0" 200 42587 http-bio-8087-exec-1 920
+127.0.0.1 - - [14/Jan/2016:18:50:10 +0800] "GET /search.html?q=%E5%B0%8F%E7%B1%B3 HTTP/1.0" 200 25858 http-bio-8087-exec-2 69

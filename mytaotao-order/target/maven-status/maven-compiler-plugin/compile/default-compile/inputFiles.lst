@@ -1,0 +1,16 @@
+F:\eclipse_workspace02\eclipse_workspace1120\mytaotao-order\src\main\java\com\mytaotao\store\order\pojo\Order.java
+F:\eclipse_workspace02\eclipse_workspace1120\mytaotao-order\src\main\java\com\mytaotao\store\order\service\OrderService.java
+F:\eclipse_workspace02\eclipse_workspace1120\mytaotao-order\src\main\java\com\mytaotao\store\order\bean\OperaterEnum.java
+F:\eclipse_workspace02\eclipse_workspace1120\mytaotao-order\src\main\java\com\mytaotao\store\order\job\PaymentOrderJob.java
+F:\eclipse_workspace02\eclipse_workspace1120\mytaotao-order\src\main\java\com\mytaotao\store\order\bean\TaotaoResult.java
+F:\eclipse_workspace02\eclipse_workspace1120\mytaotao-order\src\main\java\com\mytaotao\store\order\bean\Where.java
+F:\eclipse_workspace02\eclipse_workspace1120\mytaotao-order\src\main\java\com\mytaotao\store\order\pojo\ResultMsg.java
+F:\eclipse_workspace02\eclipse_workspace1120\mytaotao-order\src\main\java\com\mytaotao\store\order\mapper\OrderMapper.java
+F:\eclipse_workspace02\eclipse_workspace1120\mytaotao-order\src\main\java\com\mytaotao\store\order\controller\OrderController.java
+F:\eclipse_workspace02\eclipse_workspace1120\mytaotao-order\src\main\java\com\mytaotao\store\order\pojo\OrderShipping.java
+F:\eclipse_workspace02\eclipse_workspace1120\mytaotao-order\src\main\java\com\mytaotao\store\order\pojo\PageResult.java
+F:\eclipse_workspace02\eclipse_workspace1120\mytaotao-order\src\main\java\com\mytaotao\store\order\dao\IOrder.java
+F:\eclipse_workspace02\eclipse_workspace1120\mytaotao-order\src\main\java\com\mytaotao\store\order\util\ValidateUtil.java
+F:\eclipse_workspace02\eclipse_workspace1120\mytaotao-order\src\main\java\com\mytaotao\store\order\pojo\OrderItem.java
+F:\eclipse_workspace02\eclipse_workspace1120\mytaotao-order\src\main\java\com\mytaotao\store\order\mapper\IMapper.java
+F:\eclipse_workspace02\eclipse_workspace1120\mytaotao-order\src\main\java\com\mytaotao\store\order\dao\OrderDAO.java
